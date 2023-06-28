@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+
+img{
+
+	width:300px;
+	
+}
+
+.container{
+
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	text-align:center;
+	width:300px;
+	padding:30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius:10px;
+	background-color:rgb(241,241,241);
+}
+
+button{
+
+	padding:5px;
+	background-color:rgb(254,98,90);
+	color:white;
+	border-radius:10px;
+	border:none;
+
+}
